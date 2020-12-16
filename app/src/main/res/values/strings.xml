@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TMPGroupCA</string>
+
+    <string-array name="time_interval">
+        <item>Select interval</item>
+        <item>Monthly</item>
+        <item>Weekly</item>
+        <item>Daily</item>
+        <item>12 Hours</item>
+        <item>6 Hours</item>
+        <item>3 Hours</item>
+        <item>1 Hour</item>
+        <item>30 Minutes</item>
+        <item>10 Minutes</item>
+        <item>5 Minutes</item>
+        <item>2 Minutes</item>
+        <item>1 Minute</item>
+        <item>30 Seconds</item>
+        <item>20 Seconds</item>
+        <item>10 Seconds</item>
+        <item>5 Seconds</item>
+        <item>1 Second</item>
+    </string-array>
+</resources>
